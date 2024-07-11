@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Saiyam Verma</h1>
 <h3 align="center">A passionate MERN Stack developer from Meerut, India.</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAoTJjowRE6qWDsYQUKreaDKJCB0hDKtUBCQ&s"> -->
-<img align="right" alt="Coding" width="250" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
+<img align="right" alt="Coding" width="30%" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vermasaiyam&label=Profile%20views&color=0e75b6&style=flat" alt="vermasaiyam" /> </p>
 
