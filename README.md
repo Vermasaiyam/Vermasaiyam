@@ -16,6 +16,7 @@
 
 <h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width=50> </h3>
 <p align="left">
+<a href="https://saiyams-portfolio.vercel.app/"><img align="center" src="https://github.com/Vermasaiyam.png" width="32" height="32" alt="Saiyam's Portfolio" /></a>
 <a href="https://twitter.com/saiyamverm91813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saiyamverm91813" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saiyamverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saiyamverma" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/saiyam_22b154121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saiyam_22b154121" height="30" width="40" /></a>
