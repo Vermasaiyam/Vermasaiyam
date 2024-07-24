@@ -22,6 +22,7 @@
 <a href="https://www.hackerrank.com/saiyam_22b154121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saiyam_22b154121" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saiyam05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saiyam05" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vermasa9xvh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vermasa9xvh" height="30" width="40" /></a>
+<a href="https://codepen.io/saiyam01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="saiyam01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24> </h3>
