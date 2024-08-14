@@ -8,7 +8,6 @@
 <img align="right" alt="Coding" width="30%" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
 
 
-
 <p align='left'>
   <img src="https://komarev.com/ghpvc/?username=vermasaiyam&label=Profile%20views&color=0e75b6&style=flat" alt="vermasaiyam" />
   <a href="https://linkedin.com/in/saiyamverma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /> </a>
@@ -16,8 +15,12 @@
 </p>
 <!-- <p> <a href="https://twitter.com/saiyamverm91813" target="blank"><img src="https://img.shields.io/twitter/follow/saiyamverm91813?logo=twitter&style=for-the-badge" alt="saiyamverm91813" /></a> </p> -->
 
-
 <h1 align="center"></h1>
+
+<h3 align="left"> About Me</h3>
+<li> 👨‍💻 A 3rd year B.Tech. Student at ABES Engineering College, Ghaziabad.</li>
+<li> 💬 I’m looking to collaborate on Open Source Projects.</li>
+<li> 🔭 Enthusiast to learn new things.</li>
 
 <h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width=50> </h3>
 <p align="left">
