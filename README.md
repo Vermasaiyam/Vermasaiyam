@@ -19,7 +19,7 @@
 
 <h3 align="left"> About Me </h3>
 <li> 👨‍💻 A 3rd year B.Tech. Student at ABES Engineering College, Ghaziabad.</li>
-<li> 💬 I’m looking to collaborate on Open Source Projects.</li>
+<li> 💬 I’m looking to collaborate in Open Source Projects.</li>
 <li> 🔭 Enthusiast to learn new things.</li>
 
 <h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width=50> </h3>
