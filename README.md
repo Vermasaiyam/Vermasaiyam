@@ -11,8 +11,8 @@
 
 <p align='left'>
   <img src="https://komarev.com/ghpvc/?username=vermasaiyam&label=Profile%20views&color=0e75b6&style=flat" alt="vermasaiyam" />
-  <a href="https://linkedin.com/in/saiyamverma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /> </a>
-  <a href="https://twitter.com/saiyamverm91813"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /> </a>
+  <a href="https://www.linkedin.com/in/saiyam05" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /> </a>
+  <a href="https://twitter.com/saiyamverm91813" target="_blank"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /> </a>
 </p>
 <!-- <p> <a href="https://twitter.com/saiyamverm91813" target="blank"><img src="https://img.shields.io/twitter/follow/saiyamverm91813?logo=twitter&style=for-the-badge" alt="saiyamverm91813" /></a> </p> -->
 
