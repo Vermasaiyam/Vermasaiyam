@@ -3,6 +3,7 @@
 <!-- <a href="https://saiyams-portfolio.vercel.app/" target="_blank"><img width="100%" height = "100%" src="./Banner.png" alt="Banner - Saiyam Verma" /></a>-->
 </div>
 <!--  [![MasterHead] (https://camo.githubusercontent.com/7aebe4a98d77003bcfaccb71ab39753b9ca94328808114e845a1f6cac3a09e2b/68747470733a2f2f7763732e75776f2e63612f7372732f75706c6f61642f62616e6e657266732e706e67)](https://Vermasaiyam.io) -->
+
 <h1 align="center">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 24>, &lt;Fellow Developers /&gt;</h1>
 <h3 align="center">A passionate MERN Stack developer from Meerut, India.</h3>
 <img align="right" alt="Coding" width="30%" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
