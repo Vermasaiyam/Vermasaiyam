@@ -1,6 +1,5 @@
 <div align="center">
 <a href="https://saiyams-portfolio.vercel.app/" target="_blank"><img width="100%" height = "100%" src="./github-header-image (8).png" alt="Banner - Saiyam Verma" /></a>
-<!-- <a href="https://saiyams-portfolio.vercel.app/" target="_blank"><img width="100%" height = "100%" src="./Banner.png" alt="Banner - Saiyam Verma" /></a>-->
 </div>
 
 <h1 align="center">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 24>, &lt;Fellow Developers /&gt;</h1>
