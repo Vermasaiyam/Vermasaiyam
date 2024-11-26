@@ -6,6 +6,7 @@
 <h3 align="center">A passionate MERN Stack developer from Meerut, India.</h3>
 <img align="right" alt="Coding" width="30%" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
 
+
 <p align='left'>
   <img src="https://komarev.com/ghpvc/?username=vermasaiyam&label=Profile%20views&color=0e75b6&style=flat" alt="vermasaiyam" />
   <a href="https://www.linkedin.com/in/saiyam05" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /> </a>
