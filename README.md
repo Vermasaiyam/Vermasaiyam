@@ -13,7 +13,6 @@
 </p>
 
 <h1 align="center"></h1>
-
 <h3 align="left"> About Me </h3>
 <li> 👨‍💻 A 3rd year B.Tech. Student at ABES Engineering College, Ghaziabad, UP.</li>
 <li> 💬 I’m looking to collaborate in Open Source Projects.</li>
