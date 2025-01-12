@@ -2,7 +2,6 @@
   <a href="https://saiyams-portfolio.vercel.app/" target="_blank"><img width="100%" height = "100%" src="./github-header-image (8).png" alt="Banner - Saiyam Verma" /></a>
 </div>
 
-
 <h1 align="center">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 24>, &lt;Fellow Developers /&gt;</h1>
 <h3 align="center">A passionate MERN Stack developer from Meerut, India.</h3>
 <img align="right" alt="Coding" width="30%" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
