@@ -16,8 +16,9 @@
 <h3 align="left"> About Me </h3>
 <li> 👨‍💻 A 3rd year B.Tech. Student at ABES Engineering College, Ghaziabad, UP.</li>
 <li> 💬 I’m looking to collaborate in Open Source Projects.</li>
-<li> 🔭 Enthusiast to learn new things.</li>
-<li> 📝 Here's a link to my resume: <a href="http://bit.ly/41QOaPi" target="_blank">My Resume</a></li>
+<li> 🔭 Enthusiast to learn new things.</li><li> 📝 Here's a link to my resume: 
+    <a href="http://bit.ly/41QOaPi" target="_blank" rel="noopener noreferrer">My Resume</a>
+</li>
 <li> 👨‍💻 Reach out to me for creating your websites or projects!</li>
 
 <h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width=50> </h3>
