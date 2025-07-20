@@ -14,7 +14,7 @@
 
 <h1 align="center"></h1>
 <h3 align="left"> About Me </h3>
-<li> 🚀 Currently working at [Salescode.ai](https://salescode.ai) as a Software Engineer Trainee.</li>
+<li> 🚀 Currently working at <a href="https://salescode.ai" target="_blank" rel="noopener noreferrer">Salescode.ai</a> as a Software Engineer Trainee.</li>
 <li> 👨‍💻 A 4th year B.Tech. Student at ABES Engineering College, Ghaziabad, UP.</li>
 <li> 💬 I’m looking to collaborate in Open Source Projects.</li>
 <li> 🔭 Enthusiast to learn new things.</li><li> 📝 Here's a link to my resume: 
