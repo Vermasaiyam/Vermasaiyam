@@ -14,7 +14,8 @@
 
 <h1 align="center"></h1>
 <h3 align="left"> About Me </h3>
-<li> 👨‍💻 A 3rd year B.Tech. Student at ABES Engineering College, Ghaziabad, UP.</li>
+<li> 🚀 Currently working at [Salescode.ai](https://salescode.ai) as a Software Engineer Trainee.</li>
+<li> 👨‍💻 A 4th year B.Tech. Student at ABES Engineering College, Ghaziabad, UP.</li>
 <li> 💬 I’m looking to collaborate in Open Source Projects.</li>
 <li> 🔭 Enthusiast to learn new things.</li><li> 📝 Here's a link to my resume: 
     <a href="http://bit.ly/41QOaPi" target="_blank" rel="noopener noreferrer">My Resume</a>
@@ -37,6 +38,7 @@
   <a href="https://github.com/Vermasaiyam?tab=repositories&q=&type=&language=C" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/a4rYU_4fxzH0s9nt0Vs38mQgNl5vfd5EyHg5FNWU1m4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LWZsdXR0ZXItbG9n/by1pY29uLWRvd25s/b2FkLWluLXN2Zy1w/bmctZ2lmLWZpbGUt/Zm9ybWF0cy0tdGVj/aG5vbG9neS1zb2Np/YWwtbWVkaWEtY29t/cGFueS12b2wtMy1w/YWNrLWxvZ29zLWlj/b25zLTMwMzAxMzku/cG5nP2Y9d2VicCZ3/PTI1Ng" alt="flutter" width="35" height="35"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
