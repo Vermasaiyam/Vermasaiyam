@@ -18,7 +18,7 @@
 <li> 👨‍💻 A 4th year B.Tech. Student at ABES Engineering College, Ghaziabad, UP.</li>
 <li> 💬 I’m looking to collaborate in Open Source Projects.</li>
 <li> 🔭 Enthusiast to learn new things.</li><li> 📝 Here's a link to my resume: 
-    <a href="http://bit.ly/41QOaPi" target="_blank" rel="noopener noreferrer">My Resume</a>
+    <a href="https://drive.google.com/file/d/1e3KG-G9WQyVb779OH3d8ZL1gNNkg80cc/view?usp=drive_link" target="_blank" rel="noopener noreferrer">My Resume</a>
 </li>
 <li> 👨‍💻 Reach out to me for creating your websites or projects!</li>
 
