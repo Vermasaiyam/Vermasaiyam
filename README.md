@@ -57,8 +57,8 @@
 
 <h2> My GitHub stats <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 64> </h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vermasaiyam&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vermasaiyam&show_icons=true&locale=en&layout=compact&count_private=true" alt="Top Languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vermasaiyam&show_icons=true&locale=en" alt="Saiyam's Github Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vermasaiyam&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="Saiyam's Github Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vermasaiyam&" alt="Saiyam's Github Streaks" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vermasaiyam&include_all_commits=true&count_private=true" alt="Saiyam's Github Streaks" /></p>
