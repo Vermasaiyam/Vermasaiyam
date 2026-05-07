@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/saiyam05" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/saiyamverm91813" target="_blank"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a>
   <a href="mailto:vermasaiyam9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://saiyams-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF7139.svg?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://saiyam05.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF7139.svg?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 ---
@@ -35,7 +35,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://saiyams-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://saiyam05.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/saiyam05" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/saiyamverm91813" target="_blank"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="mailto:vermasaiyam9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
