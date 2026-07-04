@@ -22,7 +22,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🚀 Currently working at **[Salescode.ai](https://salescode.ai)** as a **Software Engineer Trainee**
+- 🚀 Currently working at **[Salescode.ai](https://salescode.ai)** as a **Software Engineer**
 - 🎓 Final-year **B.Tech.** student at **ABES Engineering College**, Ghaziabad, UP
 - 📱 Building cross-platform apps with **Flutter & Dart** and full-stack web with the **MERN** stack
 - 💬 Looking to collaborate on **Open Source** projects
